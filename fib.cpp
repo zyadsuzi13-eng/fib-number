@@ -34,5 +34,6 @@ int main()
   cout << "enter the number :";
   int n;
   cin >> n;
+  cout << "the output : ";
   fib(n);
 }
